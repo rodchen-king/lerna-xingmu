@@ -1,0 +1,19 @@
+{
+  "name": "react-verb",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "rodchen <rodchen_king@outlook.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/react-verb.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "node ./__tests__/react-verb.test.js"
+  }
+}
